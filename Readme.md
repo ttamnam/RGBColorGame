@@ -1,4 +1,7 @@
 ## Try it yourself
+
+https://ttamnam.github.io/rgbColorGame/
+
 ```bash
 git clone https://github.com/ttamnam/rgbColorGame.git
 cd rgbColorGame.git
